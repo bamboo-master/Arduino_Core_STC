@@ -34,11 +34,6 @@
               "packager": "STCDuino"
             },
             {
-              "name": "stcflash",
-              "version": "v0.0.1",
-              "packager": "STCDuino"
-            },
-            {
               "name": "python3",
               "version": "3.7.2-post1",
               "packager": "STCDuino"

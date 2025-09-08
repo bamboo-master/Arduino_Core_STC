@@ -26,7 +26,7 @@
             {
               "name": "sdcc",
               "version": "build.13407",
-              "packager": "STCDuino"
+              "packager": "STC8051"
             },
             {
               "name": "stc8051_tools",

@@ -1,12 +1,12 @@
 {
   "packages": [
     {
-      "name": "STCDuino",
+      "name": "STC8051",
       "maintainer": "bamboo-master",
       "websiteURL": "https://github.com/ma6254/Arduino_Core_STC",
       "email": "9a6c5609806a@gmail.com",
       "help": {
-        "online": "https://github.com/ma6254/Arduino_Core_STC"
+        "online": "https://github.com/bamboo-master/Arduino_Core_STC8051"
       },
       "platforms": [
         {

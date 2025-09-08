@@ -2,7 +2,7 @@
   "packages": [
     {
       "name": "STCDuino",
-      "maintainer": "ma6254",
+      "maintainer": "bamboo-master",
       "websiteURL": "https://github.com/ma6254/Arduino_Core_STC",
       "email": "9a6c5609806a@gmail.com",
       "help": {

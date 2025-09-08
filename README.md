@@ -16,5 +16,5 @@ This repo adds the support of STC MCU in Arduino IDE.
 Add this link in the "Additional Boards Managers URLs" field:
 
 ```
-https://github.com/ma6254/Arduino_Core_STC/raw/main/package_ma6254_stcduino_index.json
+https://github.com/bamboo-master/Arduino_Core_STC/blob/main/package_ma6254_stcduino_index.json
 ```

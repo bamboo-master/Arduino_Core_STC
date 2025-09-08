@@ -95,7 +95,7 @@
             {
               "host": "i686-mingw32",
               "url": "https://github.com/sms-wyt/stcflash/archive/refs/heads/master.zip",
-              "archiveFileName": "stcflash-master.zip"
+              "archiveFileName": "stcflash-master.zip",
               "checksum": "SHA-256:c2889d69c37278e89737097ee1a9bc07af74f69e4b8d596f8dafad897fce12e2",
               "size": "24874"
             }

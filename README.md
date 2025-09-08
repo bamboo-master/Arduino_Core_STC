@@ -16,5 +16,5 @@ This repo adds the support of STC MCU in Arduino IDE.
 Add this link in the "Additional Boards Managers URLs" field:
 
 ```
-https://github.com/bamboo-master/Arduino_Core_STC/blob/main/package_stc51duino_index.json
+https://github.com/bamboo-master/Arduino_Core_STC8051/raw/main/package_stc8051_index.json
 ```

@@ -39,6 +39,19 @@
               "packager": "STCDuino"
             }
           ],
+          {
+          "name": "stcflash",
+          "version": "v0.0.1",
+          "systems": [
+            {
+              "host": "i686-mingw32",
+              "url": "https://github.com/sms-wyt/stcflash/archive/refs/heads/master.zip",
+              "archiveFileName": "stcflash-master.zip",
+              "checksum": "SHA-256:c2889d69c37278e89737097ee1a9bc07af74f69e4b8d596f8dafad897fce12e2",
+              "size": "24874"
+            }
+          ]
+        },
           "url": "https://github.com/ma6254/Arduino_Core_STC/archive/refs/heads/main.zip",
           "archiveFileName": "main.zip"
         }
@@ -94,6 +107,19 @@
               "checksum": "SHA-256:f57cb2daf86176d2929e7c58990c2ac32554e3219d454dcac10e464ddda35bf2",
               "size": "6428926"
             },
+             {
+          "name": "stcflash",
+          "version": "v0.0.1",
+          "systems": [
+            {
+              "host": "i686-mingw32",
+              "url": "https://github.com/sms-wyt/stcflash/archive/refs/heads/master.zip",
+              "archiveFileName": "stcflash-master.zip",
+              "checksum": "SHA-256:c2889d69c37278e89737097ee1a9bc07af74f69e4b8d596f8dafad897fce12e2",
+              "size": "24874"
+            }
+          ]
+        },
             {
               "host": "i686-mingw32",
               "url": "https://github.com/earlephilhower/esp-quick-toolchain/releases/download/2.5.0-4/python3-3.7.2.post1-embed-win32v2a.zip",

@@ -7,24 +7,6 @@ menu.upload_method=Upload method
 ##############################################################
 
 #===============================================================================
-# STC8G1K08A
-#===============================================================================
-STC8G1K08A.name=STC8G1K08A Board
-STC8G1K08A.build.mcu=stc8051
-STC8G1K08A.build.core=stc8g
-STC8G1K08A.build.board=STC8G1K08A
-STC8G1K08A.build.variant=STC8G1K08A
-
-# XRAM
-#   offset: 0
-#   Size: 1K
-STC8G1K08A.upload.xdata_location=0
-STC8G1K08A.upload.maximum_data_size=1024
-
-# Flash Size: 8K
-STC8G1K08A.upload.maximum_size=8192
-
-#===============================================================================
 # STC8H
 #===============================================================================
 STC8H8K64U.name=STC8H8K64U Board

@@ -31,10 +31,10 @@
               "packager": "STCDuino"
             }
           ],
-          "url": "https://raw.githubusercontent.com/bamboo-master/Arduino_Core_STC8051/refs/heads/main/archive/main.zip",
+          "url": "https://github.com/bamboo-master/Arduino_Core_STC8051/raw/main/archive/Arduino_Core_STC8051.zip",
           "archiveFileName": "main.zip",
-          "checksum": "d21e58fdbf2cf4f16c7290a12ab14e668b9f7551c28e6bded619108c1de152cf",
-          "size": "17907"
+          "checksum": "cc0987407f27c654ebfd19c9fcaa1d1a5a3b5cdda7664b9a2831cfdc7e122727",
+          "size": "16955"
         }
       ],
       "tools": [

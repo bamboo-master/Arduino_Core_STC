@@ -33,6 +33,8 @@
           ],
           "url": "https://github.com/bamboo-master/Arduino_Core_STC8051/archive/refs/heads/main.zip",
           "archiveFileName": "main.zip",
+          "checksum": "SHA-256:",
+          "size": ""
         }
       ],
       "tools": [
